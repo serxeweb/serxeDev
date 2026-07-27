@@ -30,7 +30,7 @@ I leverage modern AI tools to accelerate development workflows while maintaining
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-## 🌐 Connect
+## Connect
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KJxMWEatq)
 
 
