@@ -1,11 +1,11 @@
-# 💫 About Me
+# About Me
 I'm **Serxe** — an aspiring full-stack developer bridging creative problem-solving with a security-first mindset. Passionate about continuous learning, I build practical, reliable applications with clean architectures and defensive code. 
 
 I leverage modern AI tools to accelerate development workflows while maintaining rigorous manual code review and verification standards for safe, production-grade output.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -28,18 +28,6 @@ I leverage modern AI tools to accelerate development workflows while maintaining
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=serxeDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Serxe's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=serxeDev&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=serxeDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
 
 
 ## 🌐 Connect
