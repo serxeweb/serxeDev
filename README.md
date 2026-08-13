@@ -18,7 +18,6 @@ I’m still early in my journey, but I’m passionate about learning and buildin
 
 I use AI tools to work faster and smarter, but never blindly — every output is carefully reviewed, tested, and validated to ensure quality and safety.
 
-This GitHub reflects my progress, my discipline, and my commitment to building with purpose.
 
 ---
 
